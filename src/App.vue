@@ -44,21 +44,10 @@
       </svg>
     </div>
     <div class="svg-item">
-      <svg>
-        <path d="M300,200 h-150 a150,150 0 1,0 150,-150 z" fill="red" stroke="blue" stroke-width="5" />
-        <path d="M275,175 v-150 a150,150 0 0,0 -150,150 z" fill="yellow" stroke="blue" stroke-width="5" />
-
-        <path d="M600,350 l 50,-25 
-           a25,25 -30 0,1 50,-25 l 50,-25 
-           a25,50 -30 0,1 50,-25 l 50,-25 
-           a25,75 -30 0,1 50,-25 l 50,-25 
-           a25,100 -30 0,1 50,-25 l 50,-25" fill="none" stroke="red" stroke-width="5" /></svg>
 
     </div>
     <div class="svg-item">
-      <svg>
-        <path d="M0 100 A 50 50,0 0 1,100 100" stroke="black" fill="green" stroke-width="2" fill-opacity="0.5" />
-      </svg>
+
     </div>
   </div>
 </template>

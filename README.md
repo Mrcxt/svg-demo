@@ -1,16 +1,3 @@
-# svg-demo
+# SVG
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
+[MDN 教程](https://developer.mozilla.org/zh-CN/docs/Web/SVG)
